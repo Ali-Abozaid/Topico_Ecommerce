@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "email": "Admin@iti.com",
+      "username": "Admin",
+      "password": "naserKasem@iti",
+      "role": "admin",
+      "wishList": [],
+      "orders": [],
+      "cart": [],
+      "pendingProducts": [],
+      "feedback": [],
+      "feedbackResponse": [],
+      "comments": [],
+      "securityQuestion": "What is your favourite hobby?",
+      "securityAnswer": "Coding"
+    },
+    {
+      "id": 1,
+      "email": "jane.smith@example.com",
+      "username": "jane_smith",
+      "password": "securepassword",
+      "role": "user",
+      "wishList": [],
+      "orders": [],
+      "cart": [],
+      "pendingProducts": [],
+      "feedback": [],
+      "feedbackResponse": [],
+      "comments": [],
+      "securityQuestion": "",
+      "securityAnswer": ""
+    },
+    {
+      "id": 2,
+      "email": "mike.brown@example.com",
+      "username": "mike_brown",
+      "password": "password456",
+      "role": "seller",
+      "wishList": [],
+      "orders": [],
+      "cart": [],
+      "pendingProducts": [],
+      "feedback": [],
+      "feedbackResponse": [],
+      "comments": [],
+      "securityQuestion": "",
+      "securityAnswer": ""
+    },
+    {
+      "id": 3,
+      "email": "susan.jones@example.com",
+      "username": "susan_jones",
+      "password": "mypassword",
+      "role": "user",
+      "wishList": [],
+      "orders": [],
+      "cart": [],
+      "pendingProducts": [],
+      "feedback": [],
+      "feedbackResponse": [],
+      "comments": [],
+      "securityQuestion": "",
+      "securityAnswer": ""
+    }
+  ]
+}
